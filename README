@@ -1,0 +1,57 @@
+# Python GUI Games using Tkinter
+
+## 📌 Overview
+
+This project contains a collection of simple GUI-based games developed using **Tkinter**, the standard GUI library in Python. These games were created as part of our academic curriculum to demonstrate basic concepts of graphical user interfaces, event handling, and interactive programming in Python.
+
+## 🎯 Objectives
+
+* To understand the fundamentals of GUI development using Tkinter
+* To implement simple game logic in an interactive environment
+* To enhance problem-solving and programming skills through game development
+
+## 🧩 Games Included
+
+The project consists of a few basic games, such as:
+
+* Simple number or guessing number games
+* Basic interactive board or grid-based games Tic-Tac-Toe
+* Basic computer Vs game like Rock paper Scissors
+* Other small GUI-based applications (depending on implementation)
+
+## 🛠️ Technologies Used
+
+*Python
+*Few Inbuilt modules (Random, Datetime, etc)
+*Tkinter (built-in Python library for GUI development)
+
+## ▶️ How to Run
+
+1. Make sure Python is installed on your system.
+2. Clone or download this repository.
+3. Navigate to the project folder.
+4. Run any game file using:
+
+   ```bash
+   python main.py
+   ```
+
+## 📚 Learning Outcomes
+
+* Gained hands-on experience with Tkinter widgets (buttons, labels, frames, etc.)
+* Learned event-driven programming concepts
+* Built simple yet functional GUI applications
+
+## 📌 Notes
+
+This project is created strictly for educational purposes as part of the prescribed curriculum.
+
+## 👨‍💻 Author
+
+Akhil Chintanippula
+24204-EC-023
+
+---
+Feel free to explore and modify the games to improve functionality or add new features!
+And am up for any new projects to make on real life and real time database and modules for our next projects and i would love to do it
+
